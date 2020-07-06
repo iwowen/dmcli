@@ -1,0 +1,16 @@
+{
+  "name": "dmcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "taowen",
+  "license": "ISC",
+  "bin": {
+    "dm": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^5.1.0",
+    "shelljs": "^0.8.4",
+    "tracer": "^1.1.2"
+  }
+}
