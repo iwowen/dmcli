@@ -1,6 +1,6 @@
 {
   "name": "@iwowen/dmcli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "author": "taowen",
@@ -17,5 +17,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:iwowen/dmcli.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }

@@ -2,7 +2,7 @@
 
 方便使用demobar项目的cli工具
 
-[![NPM](https://nodei.co/npm/@iwowen/dmcli.png)](https://nodei.co/npm/@iwowen/dmcli/)
+[![NPM](https://nodei.co/npm/react.png)](https://nodei.co/npm/react/)
 
 demobar:[https://github.com/iwowen/demobar](https://github.com/iwowen/demobar)
 
