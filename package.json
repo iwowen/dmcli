@@ -17,8 +17,5 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:iwowen/dmcli.git"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
   }
 }
