@@ -1,8 +1,9 @@
-# dmcli
+# @iwowen/dmcli
 
 方便使用demobar项目的cli工具
 
-dmcli: [https://github.com/iwowen/dmcli](https://github.com/iwowen/dmcli)
+[![NPM](https://nodei.co/npm/@iwowen/dmcli.png)](https://nodei.co/npm/@iwowen/dmcli/)
+
 demobar:[https://github.com/iwowen/demobar](https://github.com/iwowen/demobar)
 
 ## 基本命令

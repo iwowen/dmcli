@@ -1,10 +1,11 @@
 {
-  "name": "dmcli",
+  "name": "@iwowen/dmcli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "author": "taowen",
-  "license": "ISC",
+  "license": "MIT",
+  "keywords":["demobar","cli"],
   "bin": {
     "dm": "./index.js"
   },
@@ -12,5 +13,9 @@
     "commander": "^5.1.0",
     "shelljs": "^0.8.4",
     "tracer": "^1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iwowen/dmcli.git"
   }
 }
